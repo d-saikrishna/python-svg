@@ -40,7 +40,7 @@ marker {
 .x_label text {
     text-anchor: middle;
     dominant-baseline: text-before-edge;
-    font-size:1.5px;
+    font-size:2px;
 }
 
 .y_label {
@@ -51,7 +51,7 @@ marker {
 .y_label text {
     text-anchor: end;
     dominant-baseline: middle;
-    font-size: 1.5px;
+    font-size: 2px;
 }
 
 .x-grids {
@@ -192,9 +192,9 @@ marker {
     <text x="76.5" y="85">35</text>
   </g>
   <line class="axis" x1="7.5" y1="120" x2="167.5" y2="120" />
-  <text x="80.0" y="123.0" font-size="3" text-anchor="middle" dominant-baseline="hanging">X Axis title</text>
+  <text x="80.0" y="124" font-size="3" text-anchor="middle" dominant-baseline="hanging">X Axis title</text>
   <line class="axis" x1="7.5" y1="120" x2="7.5" y2="0" />
-  <text x="4.5" y="60.0" font-size="3" text-anchor="middle" dominant-baseline="middle" writing-mode="tb">Y Axis title</text>
+  <text x="3.5" y="60.0" font-size="3" text-anchor="middle" dominant-baseline="middle" writing-mode="tb">Y Axis title</text>
   <g class="x_label">
     <line x1="7.5" y1="120" x2="7.5" y2="120.5" />
     <line x1="27.5" y1="120" x2="27.5" y2="120.5" />
